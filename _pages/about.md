@@ -36,4 +36,4 @@ and contributed to the development of the [Flash Detection Software](https://kry
 - **Prediction-Powered Ranking of Large Language Models** \
 _HEAL workshop at CHI, Honolulu, 2024_ \
 Ivi Chatzi, Eleni Straitouri, Suhas Thejaswi, Manuel Gomez-Rodriguez \
-[[arxiv](https://arxiv.org/abs/2402.17826)] [[pdf](https://ivichatzi.github.io/files/2402.17826v2.pdf)] [[code](https://github.com/Networks-Learning/prediction-powered-ranking)] [[poster](https://ivichatzi.github.io/files/poster_ppr.pdf)]
+[[arxiv](https://arxiv.org/abs/2402.17826)] [[pdf](https://qvapil.github.io/files/2402.17826v2.pdf)] [[code](https://github.com/Networks-Learning/prediction-powered-ranking)] [[poster](https://qvapil.github.io/files/poster_ppr.pdf)]
