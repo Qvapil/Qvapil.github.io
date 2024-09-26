@@ -14,7 +14,7 @@ Currently, I am investigating how to evaluate and compare large language models 
 
 Before joining MPI-SWS, I received my MEng in Electrical and Computer Engineering from the [National Technical University of Athens](https://www.ece.ntua.gr/en), 
 where I did my diploma thesis with [Prof. Symeon Papavassiliou](https://www.ece.ntua.gr/en/staff/76).
-During my undergraduate studies, I was fortunate to do a research internship at [ETH](https://ethz.ch/en.html)
+During my undergraduate studies, I was fortunate to do a research internship at [ETH Zürich](https://ethz.ch/en.html)
 under [Dr. Fanny Yang](https://sml.inf.ethz.ch/group/fannyy/), where I worked on high-dimensional active learning.
 I also interned at the [National Observatory of Athens](https://www.noa.gr/en/)
 and contributed to the development of the [Flash Detection Software](https://kryoneri.astro.noa.gr/en/flash-detection-software/).
@@ -33,7 +33,22 @@ and contributed to the development of the [Flash Detection Software](https://kry
 
 ## Publications
 
+[//]: # (### Conferences)
+
+- **Prediction-Powered Ranking of Large Language Models** \
+_NeurIPS, Vancouver, 2024_ \
+Ivi Chatzi, Eleni Straitouri, Suhas Thejaswi, Manuel Gomez-Rodriguez \
+[[arxiv](https://arxiv.org/abs/2402.17826)] [[pdf](https://qvapil.github.io/files/2402.17826v2.pdf)] [[code](https://github.com/Networks-Learning/prediction-powered-ranking)]
+
+[//]: # (### Workshops)
+
 - **Prediction-Powered Ranking of Large Language Models** \
 _HEAL workshop at CHI, Honolulu, 2024_ \
 Ivi Chatzi, Eleni Straitouri, Suhas Thejaswi, Manuel Gomez-Rodriguez \
 [[arxiv](https://arxiv.org/abs/2402.17826)] [[pdf](https://qvapil.github.io/files/2402.17826v2.pdf)] [[code](https://github.com/Networks-Learning/prediction-powered-ranking)] [[poster](https://qvapil.github.io/files/poster_ppr.pdf)]
+
+### Pre-prints
+
+- **Counterfactual Token Generation in Large Language Models** \
+Ivi Chatzi, Nina Corvelo Benz, Eleni Straitouri, Stratis Tsirtsis, Manuel Gomez-Rodriguez \
+[[arxiv](https://arxiv.org/abs/2409.17027)] [[pdf](https://qvapil.github.io/files/2409.17027v1.pdf)] [[code](https://github.com/Networks-Learning/counterfactual-llms)]
