@@ -7,17 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Ivi, a 1st year PhD candidate at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/),
+Hello! I'm Ivi, a 2nd year PhD candidate at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/),
 under the supervision of [Dr. Manuel Gomez-Rodriguez](https://people.mpi-sws.org/~manuelgr/index.html).
 My research interests lie broadly in the area of Human-Centered Machine Learning.
-Currently, I am investigating how to evaluate and compare large language models based on human alignment.
+Currently, I am researching reliable and efficient methods to evaluate large language models based on human alignment.
 
 Before joining MPI-SWS, I received my MEng in Electrical and Computer Engineering from the [National Technical University of Athens](https://www.ece.ntua.gr/en), 
-where I did my diploma thesis with [Prof. Symeon Papavassiliou](https://www.ece.ntua.gr/en/staff/76).
+where I did my diploma thesis with Prof. Symeon Papavassiliou.
 During my undergraduate studies, I was fortunate to do a research internship at [ETH Zürich](https://ethz.ch/en.html)
-under [Dr. Fanny Yang](https://sml.inf.ethz.ch/group/fannyy/), where I worked on high-dimensional active learning.
-I also interned at the [National Observatory of Athens](https://www.noa.gr/en/)
-and contributed to the development of the [Flash Detection Software](https://kryoneri.astro.noa.gr/en/flash-detection-software/).
+under Dr. Fanny Yang and at the [National Observatory of Athens](https://www.noa.gr/en/), where I contributed to the development of the [Flash Detection Software](https://kryoneri.astro.noa.gr/en/flash-detection-software/).
 
 
 [//]: # (## News)
@@ -38,17 +36,18 @@ and contributed to the development of the [Flash Detection Software](https://kry
 - **Prediction-Powered Ranking of Large Language Models** \
 _NeurIPS, Vancouver, 2024_ \
 Ivi Chatzi, Eleni Straitouri, Suhas Thejaswi, Manuel Gomez-Rodriguez \
-[[arxiv](https://arxiv.org/abs/2402.17826)] [[pdf](https://qvapil.github.io/files/2402.17826v2.pdf)] [[code](https://github.com/Networks-Learning/prediction-powered-ranking)]
+[[arxiv](https://arxiv.org/abs/2402.17826)] [[pdf](https://qvapil.github.io/files/2402.17826v2.pdf)] [[code](https://github.com/Networks-Learning/prediction-powered-ranking)] [[poster](https://qvapil.github.io/files/poster_ppr_neurips.pdf)]
 
-[//]: # (### Workshops)
+### Workshops
+
+- **Counterfactual Token Generation in Large Language Models** \
+_C❤LM workshop at NeurIPS, Vancouver, 2024_ \
+Ivi Chatzi, Nina Corvelo Benz, Eleni Straitouri, Stratis Tsirtsis, Manuel Gomez-Rodriguez \
+[[arxiv](https://arxiv.org/abs/2409.17027)] [[pdf](https://qvapil.github.io/files/2409.17027v2.pdf)] [[code](https://github.com/Networks-Learning/counterfactual-llms)] [[poster](https://qvapil.github.io/files/poster_cf-llm_neurips.pdf)]
 
 - **Prediction-Powered Ranking of Large Language Models** \
 _HEAL workshop at CHI, Honolulu, 2024_ \
 Ivi Chatzi, Eleni Straitouri, Suhas Thejaswi, Manuel Gomez-Rodriguez \
-[[arxiv](https://arxiv.org/abs/2402.17826)] [[pdf](https://qvapil.github.io/files/2402.17826v2.pdf)] [[code](https://github.com/Networks-Learning/prediction-powered-ranking)] [[poster](https://qvapil.github.io/files/poster_ppr.pdf)]
+[[arxiv](https://arxiv.org/abs/2402.17826)] [[pdf](https://qvapil.github.io/files/2402.17826v2.pdf)] [[code](https://github.com/Networks-Learning/prediction-powered-ranking)] [[poster](https://qvapil.github.io/files/poster_ppr_chi.pdf)]
 
-### Pre-prints
-
-- **Counterfactual Token Generation in Large Language Models** \
-Ivi Chatzi, Nina Corvelo Benz, Eleni Straitouri, Stratis Tsirtsis, Manuel Gomez-Rodriguez \
-[[arxiv](https://arxiv.org/abs/2409.17027)] [[pdf](https://qvapil.github.io/files/2409.17027v1.pdf)] [[code](https://github.com/Networks-Learning/counterfactual-llms)]
+<!-- ### Pre-prints -->
