@@ -35,27 +35,48 @@ under Dr. Fanny Yang and at the [National Observatory of Athens](https://www.noa
 
 - **Counterfactual Token Generation in Large Language Models** \
 _CLeaR, Lausanne, 2025_ \
-Ivi Chatzi, Nina Corvelo Benz, Eleni Straitouri, Stratis Tsirtsis, Manuel Gomez-Rodriguez \
-[[arxiv](https://arxiv.org/abs/2409.17027)] [[code](https://github.com/Networks-Learning/counterfactual-llms)]
+Ivi Chatzi*, Nina Corvelo Benz*, Eleni Straitouri*, Stratis Tsirtsis*, Manuel Gomez-Rodriguez \
+[[arxiv](https://arxiv.org/abs/2409.17027)]
+[[code](https://github.com/Networks-Learning/counterfactual-llms)]
+[[poster](https://qvapil.github.io/files/poster_cf-llm_neurips.pdf)]
 
 - **Prediction-Powered Ranking of Large Language Models** \
 _NeurIPS, Vancouver, 2024_ \
 Ivi Chatzi, Eleni Straitouri, Suhas Thejaswi, Manuel Gomez-Rodriguez \
-[[arxiv](https://arxiv.org/abs/2402.17826)] [[pdf](https://qvapil.github.io/files/2402.17826v2.pdf)] [[code](https://github.com/Networks-Learning/prediction-powered-ranking)] [[poster](https://qvapil.github.io/files/poster_ppr_neurips.pdf)]
+[[arxiv](https://arxiv.org/abs/2402.17826)]
+[[pdf](https://qvapil.github.io/files/2402.17826v3.pdf)]
+[[code](https://github.com/Networks-Learning/prediction-powered-ranking)]
+[[poster](https://qvapil.github.io/files/poster_ppr_neurips.pdf)]
 
 ### Workshops
 
+- **Evaluation of Large Language Models via Coupled Token Generation** \
+_Building Trust workshop at ICLR, Signapore, 2024_ \
+Nina Corvelo Benz, Stratis Tsirtis, Eleni Straitouri, Ivi Chatzi, Ander Artola Velasco, Suhas Thejaswi, Manuel Gomez-Rodriguez \
+[[arxiv](https://arxiv.org/abs/2502.01754)]
+[[pdf](https://qvapil.github.io/files/2502.01754v1.pdf)]
+[[code](https://github.com/Networks-Learning/coupled-llm-evaluation)]
+[[poster](https://qvapil.github.io/files/poster-coupled-eval.pdf)]
+
 - **Counterfactual Token Generation in Large Language Models** \
 _C❤LM workshop at NeurIPS, Vancouver, 2024_ \
-Ivi Chatzi, Nina Corvelo Benz, Eleni Straitouri, Stratis Tsirtsis, Manuel Gomez-Rodriguez \
-[[arxiv](https://arxiv.org/abs/2409.17027)] [[pdf](https://qvapil.github.io/files/2409.17027v2.pdf)] [[code](https://github.com/Networks-Learning/counterfactual-llms)] [[poster](https://qvapil.github.io/files/poster_cf-llm_neurips.pdf)]
+Ivi Chatzi*, Nina Corvelo Benz*, Eleni Straitouri*, Stratis Tsirtsis*, Manuel Gomez-Rodriguez \
+[[arxiv](https://arxiv.org/abs/2409.17027)]
+[[pdf](https://qvapil.github.io/files/2409.17027v2.pdf)]
+[[code](https://github.com/Networks-Learning/counterfactual-llms)]
+[[poster](https://qvapil.github.io/files/poster_cf-llm_neurips.pdf)]
 
 - **Prediction-Powered Ranking of Large Language Models** \
 _HEAL workshop at CHI, Honolulu, 2024_ \
 Ivi Chatzi, Eleni Straitouri, Suhas Thejaswi, Manuel Gomez-Rodriguez \
-[[arxiv](https://arxiv.org/abs/2402.17826)] [[pdf](https://qvapil.github.io/files/2402.17826v2.pdf)] [[code](https://github.com/Networks-Learning/prediction-powered-ranking)] [[poster](https://qvapil.github.io/files/poster_ppr_chi.pdf)]
+[[arxiv](https://arxiv.org/abs/2402.17826)]
+[[pdf](https://qvapil.github.io/files/2402.17826v3.pdf)]
+[[code](https://github.com/Networks-Learning/prediction-powered-ranking)]
+[[poster](https://qvapil.github.io/files/poster_ppr_chi.pdf)]
 
 ### Pre-prints
-- **Evaluation of Large Language Models via Coupled Token Generation** \
-Nina Corvelo Benz, Stratis Tsirtis, Eleni Straitouri, Ivi Chatzi, Ander Artola Velasco, Suhas Thejaswi, Manuel Gomez-Rodriguez \
-[[arxiv](https://arxiv.org/abs/2502.01754)] [[pdf](https://qvapil.github.io/files/2502.01754v1.pdf)] [[code](https://github.com/Networks-Learning/coupled-llm-evaluation)]
+
+- **Canonical Autoregressive Generation** \
+Ivi Chatzi, Nina Corvelo Benz, Stratis Tsirtsis, Manuel Gomez-Rodriguez \
+[[arxiv](https://www.arxiv.org/abs/2506.06446)]
+[[pdf](https://qvapil.github.io/files/2506.06446v1.pdf)]
