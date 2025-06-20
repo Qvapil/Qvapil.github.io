@@ -35,7 +35,7 @@ under Dr. Fanny Yang and at the [National Observatory of Athens](https://www.noa
 
 - **Counterfactual Token Generation in Large Language Models** \
 _CLeaR, Lausanne, 2025_ \
-Ivi Chatzi*, Nina Corvelo Benz*, Eleni Straitouri*, Stratis Tsirtsis*, Manuel Gomez-Rodriguez \
+Ivi Chatzi\*, Nina Corvelo Benz\*, Eleni Straitouri\*, Stratis Tsirtsis\*, Manuel Gomez-Rodriguez \
 [[arxiv](https://arxiv.org/abs/2409.17027)]
 [[code](https://github.com/Networks-Learning/counterfactual-llms)]
 [[poster](https://qvapil.github.io/files/poster_cf-llm_neurips.pdf)]
