@@ -57,7 +57,7 @@ Ivi Chatzi, Nina Corvelo Benz, Stratis Tsirtsis, Manuel Gomez-Rodriguez \
 [[pdf](https://qvapil.github.io/files/2506.06446v1.pdf)]
 
 - **Evaluation of Large Language Models via Coupled Token Generation** \
-_Building Trust workshop at ICLR, Signapore, 2024_ \
+_Building Trust workshop at ICLR, Signapore, 2025_ \
 Nina Corvelo Benz, Stratis Tsirtis, Eleni Straitouri, Ivi Chatzi, Ander Artola Velasco, Suhas Thejaswi, Manuel Gomez-Rodriguez \
 [[arxiv](https://arxiv.org/abs/2502.01754)]
 [[pdf](https://qvapil.github.io/files/2502.01754v1.pdf)]
