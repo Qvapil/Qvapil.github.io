@@ -50,6 +50,12 @@ Ivi Chatzi, Eleni Straitouri, Suhas Thejaswi, Manuel Gomez-Rodriguez \
 
 ### Workshops
 
+- **Canonical Autoregressive Generation** \
+_TokShop at ICML, Vancouver, 2025_ \
+Ivi Chatzi, Nina Corvelo Benz, Stratis Tsirtsis, Manuel Gomez-Rodriguez \
+[[arxiv](https://www.arxiv.org/abs/2506.06446)]
+[[pdf](https://qvapil.github.io/files/2506.06446v1.pdf)]
+
 - **Evaluation of Large Language Models via Coupled Token Generation** \
 _Building Trust workshop at ICLR, Signapore, 2024_ \
 Nina Corvelo Benz, Stratis Tsirtis, Eleni Straitouri, Ivi Chatzi, Ander Artola Velasco, Suhas Thejaswi, Manuel Gomez-Rodriguez \
@@ -74,9 +80,6 @@ Ivi Chatzi, Eleni Straitouri, Suhas Thejaswi, Manuel Gomez-Rodriguez \
 [[code](https://github.com/Networks-Learning/prediction-powered-ranking)]
 [[poster](https://qvapil.github.io/files/poster_ppr_chi.pdf)]
 
-### Pre-prints
+<!-- ### Pre-prints -->
 
-- **Canonical Autoregressive Generation** \
-Ivi Chatzi, Nina Corvelo Benz, Stratis Tsirtsis, Manuel Gomez-Rodriguez \
-[[arxiv](https://www.arxiv.org/abs/2506.06446)]
-[[pdf](https://qvapil.github.io/files/2506.06446v1.pdf)]
+
