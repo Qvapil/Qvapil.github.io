@@ -7,15 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Ivi, a 2nd year PhD candidate at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/),
+Hello! I'm Ivi, a 3rd year PhD candidate at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/),
 under the supervision of [Dr. Manuel Gomez-Rodriguez](https://people.mpi-sws.org/~manuelgr/index.html).
 My research interests lie broadly in the area of Human-Centered Machine Learning.
-Currently, I am researching reliable and efficient methods to evaluate large language models based on human alignment.
+Currently, I am researching the effects of non-canonical tokenizations on the quality of LLM generation.
+Previously, I have also worked on statistical and causal methods for LLM evaluation.
 
 Before joining MPI-SWS, I received my MEng in Electrical and Computer Engineering from the [National Technical University of Athens](https://www.ece.ntua.gr/en), 
 where I did my diploma thesis with Prof. Symeon Papavassiliou.
-During my undergraduate studies, I was fortunate to do research internships at [ETH Zürich](https://ethz.ch/en.html)
-under Dr. Fanny Yang and at the [National Observatory of Athens](https://www.noa.gr/en/), where I contributed to the development of the [Flash Detection Software](https://kryoneri.astro.noa.gr/en/flash-detection-software/).
+During my undergraduate studies, I was fortunate to briefly work at [ETH Zürich](https://ethz.ch/en.html)
+under Dr. Fanny Yang, and at the [National Observatory of Athens](https://www.noa.gr/en/), where I contributed to the development of the [Flash Detection Software](https://kryoneri.astro.noa.gr/en/flash-detection-software/).
 
 
 [//]: # (## News)
@@ -37,6 +38,7 @@ under Dr. Fanny Yang and at the [National Observatory of Athens](https://www.noa
 _CLeaR, Lausanne, 2025_ \
 Ivi Chatzi\*, Nina Corvelo Benz\*, Eleni Straitouri\*, Stratis Tsirtsis\*, Manuel Gomez-Rodriguez \
 [[arxiv](https://arxiv.org/abs/2409.17027)]
+[[pdf](https://qvapil.github.io/files/cf-llms-v3.pdf)]
 [[code](https://github.com/Networks-Learning/counterfactual-llms)]
 [[poster](https://qvapil.github.io/files/poster_cf-llm_neurips.pdf)]
 
@@ -68,7 +70,7 @@ Nina Corvelo Benz, Stratis Tsirtis, Eleni Straitouri, Ivi Chatzi, Ander Artola V
 _C❤LM workshop at NeurIPS, Vancouver, 2024_ \
 Ivi Chatzi*, Nina Corvelo Benz*, Eleni Straitouri*, Stratis Tsirtsis*, Manuel Gomez-Rodriguez \
 [[arxiv](https://arxiv.org/abs/2409.17027)]
-[[pdf](https://qvapil.github.io/files/2409.17027v2.pdf)]
+[[pdf](https://qvapil.github.io/files/cf-llms-v3.pdf)]
 [[code](https://github.com/Networks-Learning/counterfactual-llms)]
 [[poster](https://qvapil.github.io/files/poster_cf-llm_neurips.pdf)]
 
