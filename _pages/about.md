@@ -10,8 +10,7 @@ redirect_from:
 Hello! I'm Ivi, a 3rd year PhD candidate at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/),
 under the supervision of [Dr. Manuel Gomez-Rodriguez](https://people.mpi-sws.org/~manuelgr/index.html).
 My research interests lie broadly in the area of Human-Centered Machine Learning.
-Currently, I am researching the effects of non-canonical tokenizations on the quality of LLM generation.
-Previously, I have also worked on statistical and causal methods for LLM evaluation.
+Currently, I am working on LLM evaluation and uncertainty quantification.
 
 Before joining MPI-SWS, I received my MEng in Electrical and Computer Engineering from the [National Technical University of Athens](https://www.ece.ntua.gr/en), 
 where I did my diploma thesis with Prof. Symeon Papavassiliou.
