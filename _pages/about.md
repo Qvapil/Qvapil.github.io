@@ -64,8 +64,6 @@ Overall, my goal is to make LLM systems and evaluations more predictable and tru
   [[code](https://github.com/Networks-Learning/prediction-powered-ranking)]
   [[poster](https://qvapil.github.io/files/poster_ppr_neurips.pdf)]
 
-<!-- ### Workshops -->
-
 
 4. <a id="mantra"></a> **MANTRA: Synthesizing SMT-Validated Compliance Benchmarks for Tool-Using LLM Agents** \
   _Failure Modes in Agentic AI workshop at ICML 2026_ \
