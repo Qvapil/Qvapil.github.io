@@ -18,14 +18,16 @@ During my undergraduate studies, I was fortunate to briefly work at [ETH Zürich
 under Dr. Fanny Yang, and at the [National Observatory of Athens](https://www.noa.gr/en/), where I contributed to the development of the [Flash Detection Software](https://kryoneri.astro.noa.gr/en/flash-detection-software/).
 
 **My Research:**
-I study how the inherent stochasticity in LLMs can lead to evaluation instability and fairness concerns, and how we can account for and control this stochasticity. 
-For example, inference randomness can skew model rankings [[1](#coupled-eval)], obfuscate model biases [[2](#cf-gen)], and cause identical outputs to have arbitrarily different tokenizations and costs [[5](#multiplicity)].
-To address such challenges, I develop statistical and causal methods for LLM evaluation and oversight, proposing how to reliably use LLM-as-a-judge [[3](#ppr)], speed up evaluation pipelines [[1](#coupled-eval)], determine if LLM agents' tool calls comply with policy manuals [[4](#mantra)], and ensure deterministic tokenization and pricing [[5](#multiplicity)].
+I study how the inherent stochasticity in LLMs can lead to evaluation instability and reliability concerns, and how we can account for and control this stochasticity. 
+For example, inference randomness can skew model rankings [[1]](#coupled-eval), obfuscate model biases [[2]](#cf-gen), and cause identical outputs to have arbitrarily different tokenizations and costs [[5]](#multiplicity).
+To address such challenges, I develop statistical and causal methods for LLM evaluation and oversight, proposing how to reliably use LLM-as-a-judge [[3]](#ppr), speed up evaluation pipelines [[1]](#coupled-eval), determine if LLM agents' tool calls comply with policy manuals [[4]](#mantra), and ensure deterministic tokenization and pricing [[5]](#multiplicity).
 Overall, my goal is to make LLM systems and evaluations more predictable and trustworthy.
 
 ## Recent news
 
-- **July 2026:** Our preprint [MANTRA: Synthesizing SMT-Validated Compliance Benchmarks for Tool-Using LLM Agents](https://arxiv.org/abs/2605.06334) will be presented in the _Failure Modes in Agentic AI_ workshop at ICML 2026.
+- **July 2026:** I presented two recent preprints ([MANTRA: Synthesizing SMT-Validated Compliance Benchmarks for Tool-Using LLM Agents](https://arxiv.org/abs/2605.06334) and [Tokenization Multiplicity Leads to Arbitrary Price Variation in LLM-as-a-service](https://arxiv.org/abs/2605.06334)) in the Greeks in AI Symposium 2026.
+
+- **July 2026:** I presented our preprint [MANTRA: Synthesizing SMT-Validated Compliance Benchmarks for Tool-Using LLM Agents](https://arxiv.org/abs/2605.06334) in the _Failure Modes in Agentic AI_ workshop at ICML 2026.
 
 - **May 2026:** Our paper [Evaluation of Large Language Models via Coupled Token Generation](https://arxiv.org/abs/2502.01754) was presented in AISTATS 2026.
 
