@@ -84,7 +84,7 @@ Overall, my goal is to make LLM systems and evaluations more predictable and tru
   [[pdf](https://qvapil.github.io/files/paper-multiplicity.pdf)]
   [[code](https://github.com/Human-Centric-Machine-Learning/Tokenization-Multiplicity)]
   [[data](https://huggingface.co/datasets/Human-Centric-Machine-Learning/tokenization-multiplicity-data)]
-  [[poster](https://qvapil.github.io/files/canonical-autoreg-poster.pdf)]
+  [[poster](https://qvapil.github.io/files/Poster-multiplicity.pdf)]
 
 <!-- - **Canonical Autoregressive Generation** \
 _TokShop at ICML, Vancouver, 2025_ \
