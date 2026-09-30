@@ -72,6 +72,7 @@ Overall, my goal is to make LLM systems and evaluations more predictable and tru
   Ashwani Anand, **Ivi Chatzi**, Ritam Raha, Anne-Kathrin Schmuck \
   [[arxiv](https://arxiv.org/abs/2605.06334)]
   [[pdf](https://qvapil.github.io/files/2605.06334v1.pdf)]
+  [[poster](https://qvapil.github.io/files/MANTRA_poster_portrait.jpg)]
   <!-- [[code](https://anonymous.4open.science/r/mantra-for-compliance/README.md)]
   [[data](https://huggingface.co/datasets/mantra-anon/MANTRA)] -->
 
