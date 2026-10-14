@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Ivi, a 3rd year PhD candidate at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/),
+Hello! I'm Ivi, a 4th year PhD candidate at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/),
 under the supervision of [Dr. Manuel Gomez-Rodriguez](https://people.mpi-sws.org/~manuelgr/index.html).
-My research interests lie broadly in the area of Human-Centered Machine Learning. Currently, I am working on LLM evaluation and uncertainty.
+My research interests lie broadly in the area of Human-Centered Machine Learning. Currently, I am working on LLM agent evaluation and shielding for compliance, and human-AI collaboration.
 
 
 Before joining MPI-SWS, I received my MEng in Electrical and Computer Engineering from the [National Technical University of Athens](https://www.ece.ntua.gr/en), 
@@ -19,23 +19,63 @@ under Dr. Fanny Yang, and at the [National Observatory of Athens](https://www.no
 
 **My Research:**
 I study how the inherent stochasticity in LLMs can lead to evaluation instability and reliability concerns, and how we can account for and control this stochasticity. 
-For example, inference randomness can skew model rankings [[1]](#coupled-eval), obfuscate model biases [[2]](#cf-gen), and cause identical outputs to have arbitrarily different tokenizations and costs [[5]](#multiplicity).
-To address such challenges, I develop statistical and causal methods for LLM evaluation and oversight, proposing how to reliably use LLM-as-a-judge [[3]](#ppr), speed up evaluation pipelines [[1]](#coupled-eval), determine if LLM agents' tool calls comply with policy manuals [[4]](#mantra), and ensure deterministic tokenization and pricing [[5]](#multiplicity).
+For example, inference randomness can skew model rankings [[4]](#coupled-eval), obfuscate model biases [[5]](#cf-gen), and cause identical outputs to have arbitrarily different tokenizations and costs [[3]](#multiplicity).
+To address such challenges, I develop statistical and causal methods for LLM evaluation and oversight, proposing how to reliably use LLM-as-a-judge [[6]](#ppr), speed up evaluation pipelines [[4]](#coupled-eval), guide and determine if LLM agents' tool calls comply with policy manuals [[1]](#mentor)[[2]](#mantra), and ensure deterministic tokenization and pricing [[3]](#multiplicity).
 Overall, my goal is to make LLM systems and evaluations more predictable and trustworthy.
+
+
 
 ## Recent news
 
-- **July 2026:** I presented two recent preprints ([MANTRA: Synthesizing SMT-Validated Compliance Benchmarks for Tool-Using LLM Agents](https://arxiv.org/abs/2605.06334) and [Tokenization Multiplicity Leads to Arbitrary Price Variation in LLM-as-a-service](https://arxiv.org/abs/2605.06334)) in the Greeks in AI Symposium 2026.
+- **October 2026:** In our new preprint [MENTOR: Procedural Shielding of Tool-Using LLM Agents](https://arxiv.org/abs/2610.17039), we introduce a formally-assisted runtime shield to guard and guide LLM agents' tool calls for compliance with policy manuals.
 
+- **September 2026:** I am visiting UPenn for 3 months to work with Dr. Hamed Hassani.
+
+- **July 2026:** I presented two recent preprints ([MANTRA: Synthesizing SMT-Validated Compliance Benchmarks for Tool-Using LLM Agents](https://arxiv.org/abs/2605.06334) and [Tokenization Multiplicity Leads to Arbitrary Price Variation in LLM-as-a-service](https://arxiv.org/abs/2506.06446)) in the Greeks in AI Symposium 2026.
+
+
+<details>
+  <summary>Past news</summary>
+  
 - **July 2026:** I presented our preprint [MANTRA: Synthesizing SMT-Validated Compliance Benchmarks for Tool-Using LLM Agents](https://arxiv.org/abs/2605.06334) in the _Failure Modes in Agentic AI_ workshop at ICML 2026.
 
 - **May 2026:** Our paper [Evaluation of Large Language Models via Coupled Token Generation](https://arxiv.org/abs/2502.01754) was presented in AISTATS 2026.
 
 - **May 2026:** In our new [preprint](https://arxiv.org/abs/2605.06334), we show how to use SMT validation to reliably generate policy compliance benchmarks for LLM agents.
 
+- **May 2026:** I was recognised as a Gold Reviewer (top 25%) for ICML 2026. 
+
+</details>
+
+
+
 
 ## Publications
 
+1. <a id="mentor"></a> **MENTOR: Procedural Shielding of Tool-Using LLM Agents**  \
+  _preprint_ \
+  Ashwani Anand*, **Ivi Chatzi***, Ritam Raha, Anne-Kathrin Schmuck \
+  [[arxiv](https://arxiv.org/abs/2610.17039)]
+  [[pdf](https://qvapil.github.io/files/mentor.pdf)]
+
+1. <a id="mantra"></a> **MANTRA: Synthesizing SMT-Validated Compliance Benchmarks for Tool-Using LLM Agents** \
+  _Failure Modes in Agentic AI workshop at ICML 2026_ \
+  Ashwani Anand, **Ivi Chatzi**, Ritam Raha, Anne-Kathrin Schmuck \
+  [[arxiv](https://arxiv.org/abs/2605.06334)]
+  [[pdf](https://qvapil.github.io/files/2605.06334v1.pdf)]
+  [[code](https://anonymous.4open.science/r/mantra-for-compliance/README.md)]
+  [[data](https://huggingface.co/datasets/mantra-anon/MANTRA)]
+  [[poster](https://qvapil.github.io/files/MANTRA_poster_portrait.jpg)]
+
+
+1. <a id="multiplicity"></a> **Tokenization Multiplicity Leads to Arbitrary Price Variation in LLM-as-a-service** \
+  _Tokenization workshop at ICML 2025_ \
+  **Ivi Chatzi**, Nina Corvelo Benz, Stratis Tsirtsis, Manuel Gomez-Rodriguez \
+  [[arxiv](https://www.arxiv.org/abs/2506.06446)]
+  [[pdf](https://qvapil.github.io/files/paper-multiplicity.pdf)]
+  [[code](https://github.com/Human-Centric-Machine-Learning/Tokenization-Multiplicity)]
+  [[data](https://huggingface.co/datasets/Human-Centric-Machine-Learning/tokenization-multiplicity-data)]
+  [[poster](https://qvapil.github.io/files/Poster-multiplicity.pdf)]
 
 1. <a id="coupled-eval"></a> **Evaluation of Large Language Models via Coupled Token Generation** \
   _AISTATS 2026_ \
@@ -47,17 +87,18 @@ Overall, my goal is to make LLM systems and evaluations more predictable and tru
   [[poster](https://qvapil.github.io/files/coupled_eval_poster.png)]
 
 
-2. <a id="cf-gen"></a> **Counterfactual Token Generation in Large Language Models** \
+1. <a id="cf-gen"></a> **Counterfactual Token Generation in Large Language Models** \
   _CLeaR 2025_ \
   _also presented at the Causality and Large Models workshop at NeurIPS 2024_ \
   **Ivi Chatzi**\*, Nina Corvelo Benz\*, Eleni Straitouri\*, Stratis Tsirtsis\*, Manuel Gomez-Rodriguez \
   [[arxiv](https://arxiv.org/abs/2409.17027)]
   [[pdf](https://qvapil.github.io/files/cf-llms-v3.pdf)]
   [[code](https://github.com/Networks-Learning/counterfactual-llms)]
+  [[demo code](https://github.com/Human-Centric-Machine-Learning/counterfactual-llms-demo)]
   [[poster](https://qvapil.github.io/files/poster_cf-llm_neurips.pdf)]
 
 
-3. <a id="ppr"></a> **Prediction-Powered Ranking of Large Language Models** \
+1. <a id="ppr"></a> **Prediction-Powered Ranking of Large Language Models** \
   _NeurIPS 2024_ \
   _also presented at the Human-centered Evaluation and Auditing of Language Models workshop at CHI 2024_ \
   **Ivi Chatzi**, Eleni Straitouri, Suhas Thejaswi, Manuel Gomez-Rodriguez \
@@ -66,25 +107,6 @@ Overall, my goal is to make LLM systems and evaluations more predictable and tru
   [[code](https://github.com/Networks-Learning/prediction-powered-ranking)]
   [[poster](https://qvapil.github.io/files/poster_ppr_neurips.pdf)]
 
-
-4. <a id="mantra"></a> **MANTRA: Synthesizing SMT-Validated Compliance Benchmarks for Tool-Using LLM Agents** \
-  _Failure Modes in Agentic AI workshop at ICML 2026_ \
-  Ashwani Anand, **Ivi Chatzi**, Ritam Raha, Anne-Kathrin Schmuck \
-  [[arxiv](https://arxiv.org/abs/2605.06334)]
-  [[pdf](https://qvapil.github.io/files/2605.06334v1.pdf)]
-  [[poster](https://qvapil.github.io/files/MANTRA_poster_portrait.jpg)]
-  <!-- [[code](https://anonymous.4open.science/r/mantra-for-compliance/README.md)]
-  [[data](https://huggingface.co/datasets/mantra-anon/MANTRA)] -->
-
-
-5. <a id="multiplicity"></a> **Tokenization Multiplicity Leads to Arbitrary Price Variation in LLM-as-a-service** \
-  _Tokenization workshop at ICML 2025_ \
-  **Ivi Chatzi**, Nina Corvelo Benz, Stratis Tsirtsis, Manuel Gomez-Rodriguez \
-  [[arxiv](https://www.arxiv.org/abs/2506.06446)]
-  [[pdf](https://qvapil.github.io/files/paper-multiplicity.pdf)]
-  [[code](https://github.com/Human-Centric-Machine-Learning/Tokenization-Multiplicity)]
-  [[data](https://huggingface.co/datasets/Human-Centric-Machine-Learning/tokenization-multiplicity-data)]
-  [[poster](https://qvapil.github.io/files/Poster-multiplicity.pdf)]
 
 <!-- - **Canonical Autoregressive Generation** \
 _TokShop at ICML, Vancouver, 2025_ \
@@ -117,5 +139,3 @@ Ivi Chatzi, Eleni Straitouri, Suhas Thejaswi, Manuel Gomez-Rodriguez \
 [[poster](https://qvapil.github.io/files/poster_ppr_chi.pdf)] -->
 
 <!-- ### Pre-prints -->
-
-
