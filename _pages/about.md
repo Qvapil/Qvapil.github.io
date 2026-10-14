@@ -34,7 +34,7 @@ Overall, my goal is to make LLM systems and evaluations more predictable and tru
 - **July 2026:** I presented two recent preprints ([MANTRA: Synthesizing SMT-Validated Compliance Benchmarks for Tool-Using LLM Agents](https://arxiv.org/abs/2605.06334) and [Tokenization Multiplicity Leads to Arbitrary Price Variation in LLM-as-a-service](https://arxiv.org/abs/2506.06446)) in the Greeks in AI Symposium 2026.
 
 
-<details>
+<details markdown="block">
   <summary>Past news</summary>
   
 - **July 2026:** I presented our preprint [MANTRA: Synthesizing SMT-Validated Compliance Benchmarks for Tool-Using LLM Agents](https://arxiv.org/abs/2605.06334) in the _Failure Modes in Agentic AI_ workshop at ICML 2026.
