@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! I'm Ivi, a 4th year PhD candidate at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/),
 under the supervision of [Dr. Manuel Gomez-Rodriguez](https://people.mpi-sws.org/~manuelgr/index.html).
-My research interests lie broadly in the area of Human-Centered Machine Learning. Currently, I am working on LLM agent evaluation and shielding for compliance, and human-AI collaboration.
+My research interests lie broadly in the area of Human-Centered Machine Learning. Lately, I have been working on evaluating and shielding LLM agents for compliance with policy documents.
 
 
 Before joining MPI-SWS, I received my MEng in Electrical and Computer Engineering from the [National Technical University of Athens](https://www.ece.ntua.gr/en), 
