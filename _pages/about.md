@@ -53,7 +53,7 @@ Overall, my goal is to make LLM systems and evaluations more predictable and tru
 
 1. <a id="mentor"></a> **MENTOR: Procedural Shielding of Tool-Using LLM Agents**  \
   _preprint_ \
-  Ashwani Anand*, **Ivi Chatzi***, Ritam Raha, Anne-Kathrin Schmuck \
+  Ashwani Anand\*, **Ivi Chatzi**\*, Ritam Raha, Anne-Kathrin Schmuck \
   [[arxiv](https://arxiv.org/abs/2610.17039)]
   [[pdf](https://qvapil.github.io/files/mentor.pdf)]
 
